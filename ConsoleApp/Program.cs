@@ -19,9 +19,9 @@ namespace ConsoleApp
 			var axosoftClient = new Proxy
 			{
 				// Axosoft instance specific values
-				Url = "https://someaccount.axosoft.com/",
-				ClientId = "00000000-0000-0000-0000-000000000000",
-				ClientSecret = "00000000-0000-0000-0000-000000000000",
+				Url = "https://1500fh.axosoft.com/",
+				ClientId = "31ecfef6-c0b8-490e-8454-39d49efa110c",
+				ClientSecret = "sb1dC-Evzf01DwTnEGjKJzy8vGpg_D1079Bwx3a5y2BgjhBwByTwd6FAXDaUzyVbsCN37jd0P__lsqpNE5A3LG0mEvxz_UNja-Qu",
 			};
 
 			#endregion
